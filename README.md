@@ -2,7 +2,7 @@
 
 ### **_Contact Details_**
 <p align='center'>
-  <a href="https://t.me/smartdragon1020">
+  <a href="https://t.me/quinnlee1020">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/F0EM2BwGpc1G">
