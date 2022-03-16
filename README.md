@@ -2,7 +2,7 @@
 
 ### **_Contact Details_**
 <p align='center'>
-  <a href="www.linkedin.com/in/quinn-lee-b7881b234">
+  <a href="https://www.linkedin.com/in/quinn-lee-b7881b234">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/quinnlee1020">
