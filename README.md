@@ -14,7 +14,7 @@
   <a href="letteldream@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <a href="0x||Eth#4370">
+    <a href="https://discord.com/user/0x||Eth#4370">
     <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
