@@ -3,7 +3,6 @@
 ### **_Contact Details_**
 <p align='center'>
   <a href="https://www.linkedin.com/in/quinn-lee-b7881b234">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://t.me/quinnlee1020">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
@@ -14,7 +13,7 @@
   <a href="letteldream@gmail.com">
     <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
-    <a href="https://discord.com/user/0x||Eth#4370">
+    <a href="https://discordapp.com/users/0x||Eth#4370">
     <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
