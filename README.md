@@ -84,7 +84,7 @@
     <tr>
         <td>
             <a href="https://grapefinance.app/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/cosmicswap.png?raw=true" width="200">
+                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/grapefinance.png" width="200">
             </a>
         </td>          
         <td>
