@@ -1,6 +1,7 @@
 <h1 align= "center"><b>Welcome 👋 </b></h1>
 
 ### **_Contact Details_**
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/quinn-lee-b7881b234">
     <img src="https://img.shields.io/badge/linkedin me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
@@ -20,6 +21,7 @@
 </p>
 
 ## About Me
+
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Blockchain developer specialized in DeFi and Solidity <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
 </article>
 
@@ -27,17 +29,18 @@
   
 - 😎 Interested in contributing expertise in web and blockchain development
 
-- 📚 Love reading books on personal development & financial literacy. 
+- 📚 Love reading books on personal development & financial literacy.
 
 - 🌱 I’m currently spare time to learn Unity, Maya. to make what? I don't know. 😆
 
 - 🤝 Looking forward to more partnership with talents
 
 - 🥅 2022 Goals: Contribute more to building web3 infra over the internet.
-  
+
 </p>
 
 ## Skills
+
 <table>
   <tr>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
@@ -56,6 +59,7 @@
 </table>
 
 ## Tech stack
+
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
 [![Solidity](https://img.shields.io/badge/-Solidity-3c3c3d?style=for-the-badge&logo=ethereum&logoColor=white)]()
 [![Web3.js](https://img.shields.io/badge/-Web3.js-black?style=for-the-badge&logo=javascript&logoColor=)]()
@@ -78,11 +82,7 @@
             <td>Arc Market</td>
             <td>Fastswap Finance</td>  
         </tr>
-  <tr>
-    <td>Raptr Finance</td>  
-            <td>Alora Money</td>  
-  </tr>
-    </thead>
+      </thead>
     <tr>
         <td>
             <a href="https://grapefinance.app/">
@@ -100,8 +100,16 @@
             </a>
         </td>
     </tr>
+
+</table>
+<table>
+    <thead aling="center">
+        <tr>
+    <td>Raptr Finance</td>  
+            <td>Alora Money</td>  
+  </tr>
+    </thead>
   <tr>
-    
         <td>
             <a href="https://raptorswap.com/home">
                 <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/raptr.png" width="200">
@@ -175,7 +183,7 @@
             </a>
         </td>                
     </tr>
-    
+
 </table>
 
 - NFT Marketplaces
@@ -205,12 +213,10 @@
 <h1 align="center"></h1>
 <img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=letteldream&theme=github&count_private=true" />
 
-
-## Blog  🖥
+## Blog 🖥
 
 [![simpsons](https://github.com/andrejrakic/andrejrakic/blob/master/simpsons.png)](https://medium.com/@andrej.rakic/the-simpsons-know-who-satoshi-is-d90849e6414a)
 [![embark](https://github.com/andrejrakic/andrejrakic/blob/master/embark.png)](https://medium.com/@andrej.rakic/embark-is-awesome-9eee74fdfb4f)
-
 
 <!--
 **letteldream/andrejrakic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
