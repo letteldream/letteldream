@@ -77,9 +77,11 @@
             <td>Grape Finance</td>
             <td>Arc Market</td>
             <td>Fastswap Finance</td>  
-            <td>Raptr Finance</td>  
-            <td>Alora Money</td>  
         </tr>
+  <tr>
+    <td>Raptr Finance</td>  
+            <td>Alora Money</td>  
+  </tr>
     </thead>
     <tr>
         <td>
