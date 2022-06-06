@@ -89,22 +89,22 @@
         </td>          
         <td>
             <a href="https://www.arc.market/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/ddexinfo.png?raw=true" width="200">
+                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/arcnftmarketplace.png" width="200">
             </a>
         </td>   
         <td>
             <a href="https://fastswap.finance/#/swap">
-                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/fastswapapp.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://raptorswap.com/home">
-                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/raptr.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://www.alora.money/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/maticswap.png?raw=true" width="200">
+                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/aloramoney.png" width="200">
             </a>
         </td>
     </tr>
@@ -151,22 +151,22 @@
     <tr>
         <td>
             <a href="https://cryptodragons.com">
-                <img src="https://github.com/kroim/profile/blob/master/projects/PotatoPowerClub.png?raw=true" width="200">
+                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/dragon.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://www.tipsytigerclub.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/GekoSave0.png?raw=true" width="200">
+                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/tiger.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://woofpack.io/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/FunkiFoxes.png?raw=true" width="200">
+                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/wolf.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://toastyturts.com/" target="_blank">
-                <img src="https://github.com/kroim/profile/blob/master/projects/HellDemon.png?raw=true" width="200">
+                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/turtle.png" width="200">
             </a>
         </td>                
     </tr>
@@ -184,12 +184,12 @@
     <tr>
         <td>
             <a href="https://nft.arc.market/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/nftmania.png?raw=true" width="200">
+                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/arcnftmarketplace.png" width="200">
             </a>
         </td>        
         <td>
             <a href="https://artion.io/">
-                <img src="https://github.com/kroim/profile/blob/master/projects/latitud.png?raw=true" width="200">
+                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/artion.png" width="200">
             </a>
         </td>
     </tr>
