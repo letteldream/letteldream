@@ -203,15 +203,9 @@
 
 ## Blog  🖥
 
-Feel free to check some of the most lovable stories from mine blog
-
 [![simpsons](https://github.com/andrejrakic/andrejrakic/blob/master/simpsons.png)](https://medium.com/@andrej.rakic/the-simpsons-know-who-satoshi-is-d90849e6414a)
 [![embark](https://github.com/andrejrakic/andrejrakic/blob/master/embark.png)](https://medium.com/@andrej.rakic/embark-is-awesome-9eee74fdfb4f)
 
----
-
-<br />
-Let's create meaningful & quality software, respect our privacy, use secure & free internet worldwide and go to Mars! Thank you for the opportunity to work remote, travel and live life 🚀 
 
 <!--
 **letteldream/andrejrakic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
