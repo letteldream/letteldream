@@ -155,18 +155,12 @@
 <table>
     <thead align="center">
         <tr>
-            <td>Crypto Dragons</td>
             <td>Tipsy Tiger Club</td>           
             <td>Woof Pack</td>
             <td>Toasty Turtle</td>
         </tr>
     </thead>
     <tr>
-        <td>
-            <a href="https://cryptodragons.com">
-                <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/dragon.png" width="200">
-            </a>
-        </td>
         <td>
             <a href="https://www.tipsytigerclub.com/" target="_blank">
                 <img src="https://github.com/letteldream/portfolio/blob/master/public/img/project/tiger.png" width="200">
