@@ -1,4 +1,4 @@
- ### **_Contact Details_**
+ ### **Contact**
 
 <p align='center'>
 <!--   <a href="https://www.linkedin.com/in/quinn-lee-b7881b234">
