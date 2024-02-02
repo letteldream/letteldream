@@ -1,5 +1,3 @@
-<h1 align= "center"><b>Welcome 👋 </b></h1>
-
  ### **_Contact Details_**
 
 <p align='center'>
