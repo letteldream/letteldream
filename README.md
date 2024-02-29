@@ -4,7 +4,7 @@
 <!--   <a href="https://www.linkedin.com/in/quinn-lee-b7881b234">
     <img src="https://img.shields.io/badge/linkedin me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp; -->
-  <a href="https://t.me/AngelaDuck">
+  <a href="https://t.me/AngelaFury">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/bhrlCUKfxONm">
